@@ -1,4 +1,4 @@
-# classificacao_machine_learning
+# Projeto Bank Marketing - Machine Learning - Classificações
 
 O dataset contém dados de campanhas de marketing direto de um banco em Portugal, realizadas por chamadas telefônicas para promover a subscrição de depósitos a prazo. Os dados estão relacionados com campanhas de marketing direto (ligações telefônicas) de uma instituição bancária portuguesa. O objetivo da classificação é responder a seguinte questão:
 
